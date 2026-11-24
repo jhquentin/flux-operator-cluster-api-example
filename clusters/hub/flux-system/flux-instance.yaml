@@ -21,7 +21,7 @@ spec:
     objectLevelWorkloadIdentity: true
   sync:
     kind: GitRepository
-    url: https://github.com/matheuscscp/flux-operator-cluster-api-example.git
+    url: https://github.com/jhquentin/flux-operator-cluster-api-example.git
     ref: refs/heads/main
     path: clusters/hub
   kustomize:
